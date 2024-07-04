@@ -1,0 +1,39 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: slategray;
+  color: white;
+  text-shadow: 1px 1px 0 black;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: whitesmoke;
+}
